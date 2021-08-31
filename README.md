@@ -26,14 +26,18 @@
 ## Hypothesis test
 
 - T-test
+- F-test
 
 ## Regression
 - Ordinary Linear Regression
 - Generalized Linear Regression
 
+## Assumption check
+- Normality check
+
 ## Design of Experiment
 - ANOVA
-- 
+
 
 Here goes all the budgets
 
