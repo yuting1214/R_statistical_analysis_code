@@ -27,6 +27,9 @@
 - [Regression](#regression)
 - [Design of Experiment](#design-of-experiment)
 
+## Visualization
+- [ggplot2](#ggplot2)
+
 ## Probability distribution
 
 ## Hypothesis test
@@ -44,8 +47,10 @@
 ## Design of Experiment
 - ANOVA
 
-
-Here goes all the budgets
+## ggplot2
+- text on the graph
+[ggplot2 texts : Add text annotations to a graph in R software](http://www.sthda.com/english/wiki/ggplot2-texts-add-text-annotations-to-a-graph-in-r-software)
+https://ggrepel.slowkow.com/articles/examples.html#always-show-all-labels-even-when-they-have-too-many-overlaps-1
 
 ## What's included
 
