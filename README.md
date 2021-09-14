@@ -54,6 +54,11 @@ https://ggrepel.slowkow.com/articles/examples.html#always-show-all-labels-even-w
 
 ## What's included
 
+## Try except control
+http://adv-r.had.co.nz/Exceptions-Debugging.html#condition-handling
+
+https://stackoverflow.com/questions/12193779/how-to-write-trycatch-in-r
+
 Some text
 
 ```text
