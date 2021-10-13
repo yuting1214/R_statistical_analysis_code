@@ -53,6 +53,8 @@
 - text on the graph
 [ggplot2 texts : Add text annotations to a graph in R software](http://www.sthda.com/english/wiki/ggplot2-texts-add-text-annotations-to-a-graph-in-r-software)
 https://ggrepel.slowkow.com/articles/examples.html#always-show-all-labels-even-when-they-have-too-many-overlaps-1
+- Plot arrangement(gridExtra)
+https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
 
 ## What's included
 
