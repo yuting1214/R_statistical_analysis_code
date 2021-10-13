@@ -40,7 +40,9 @@
 ## Regression
 - Ordinary Linear Regression
 - Generalized Linear Regression
-
+- Model Selection
+    * Best Subset Selection
+    * Stepwise Selection
 ## Assumption check
 - Normality check
 
