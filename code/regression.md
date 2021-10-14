@@ -22,6 +22,15 @@ library(leaps) #regsubsets()
 library(leaps) #regsubsets()
 library(MASS) #stepAIC()
 library(stats) #step(), base function
+library(olsrr)
+
+```
+
+## 3. Type I, II, III SS
+https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/
+```
+library(car)
+Anova(lm(Y ~ . - batch, data = data_final), type=3)
 ```
 
 # Multicollinearity Diagnostics
