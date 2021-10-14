@@ -14,6 +14,9 @@ https://daviddalpiaz.github.io/appliedstats/model-diagnostics.html
 # Model Selection
 
 ## 1. Best Subset Selection
+http://www.sthda.com/english/articles/37-model-selection-essentials-in-r/155-best-subsets-regression-essentials-in-r/
+http://www.science.smith.edu/~jcrouser/SDS293/labs/lab8-r.html
+http://www.sthda.com/english/articles/37-model-selection-essentials-in-r/154-stepwise-regression-essentials-in-r/
 ```
 library(leaps) #regsubsets()
 ```
@@ -28,6 +31,7 @@ library(olsrr)
 
 ## 3. Type I, II, III SS
 https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/
+http://www.utstat.utoronto.ca/reid/sta442f/2009/typeSS.pdf
 ```
 library(car)
 Anova(lm(Y ~ . - batch, data = data_final), type=3)
