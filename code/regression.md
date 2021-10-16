@@ -18,6 +18,12 @@ http://www.sthda.com/english/articles/37-model-selection-essentials-in-r/155-bes
 http://www.science.smith.edu/~jcrouser/SDS293/labs/lab8-r.html
 http://www.sthda.com/english/articles/37-model-selection-essentials-in-r/154-stepwise-regression-essentials-in-r/
 ```
+
+## 2. PRESS for model selection
+https://stevencarlislewalker.wordpress.com/2013/06/18/calculating-the-press-statistic-in-r/
+https://statisticaloddsandends.wordpress.com/2018/07/30/the-press-statistic-for-linear-regression/
+
+
 library(leaps) #regsubsets()
 ```
 ## 2. Stepwise Regression
