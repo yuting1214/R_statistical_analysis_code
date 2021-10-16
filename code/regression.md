@@ -44,7 +44,7 @@ Anova(lm(Y ~ . - batch, data = data_final), type=3)
 # Multicollinearity Diagnostics
 
 ## Varaince Inflation Factor (VIF)
-
+https://www.rdocumentation.org/packages/regclass/versions/1.6/topics/VIF
 
 
  
